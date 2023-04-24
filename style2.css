@@ -1,0 +1,62 @@
+.body {
+  margin: 0;
+}
+.container {
+  margin: 0px 100px;
+}
+
+.menu {
+  padding-top: 30px;
+  display: flex;
+  align-items: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+.nav-item {
+  color: #110f0f;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 14px;
+  margin-right: 25px;
+  font-family: monospace;
+  font-size: 20px;
+}
+.logo {
+  color: #0a0909;
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 25px;
+  margin-right: 165px;
+  font-family: monospace;
+  font-size: 20px;
+}
+.re {
+  background-color: rgb(253, 204, 212);
+}
+.g {
+  background-color: rgb(253, 204, 212);
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+.rt {
+  text-align: center;
+  font-family: monospace;
+  font-size: 15px;
+}
+.a {
+  text-align: left;
+  font-family: monospace;
+  font-size: 15px;
+  margin-left: 2.7%;
+}
+.tu {
+  margin-left: 2.7%;
+  font-family: monospace;
+  font-size: 20px;
+}
+.j {
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
